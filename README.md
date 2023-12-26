@@ -62,3 +62,6 @@ install `xclip` first.
 ## Acknowledgements
 I'm not yet perfect at writing vim plugins but I managed to do it. Thanks to [Karl Yngve Lervåg](https://vi.stackexchange.com/users/21/karl-yngve-lerv%C3%A5g) and [Rich](https://vi.stackexchange.com/users/343/rich) for help on [vi.stackexchange.com](https://vi.stackexchange.com/questions/14114/paste-link-to-image-in-clipboard-when-editing-markdown) where they proposed a solution for my use case.
 
+##### PS:
+
+项目是基于img-paste-devs/img-paste.vim大佬的项目改造了下，发现window复制的如果是文件后无法讲文件移动到对应目录，就小加了些代码。
